@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hknutsen"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://no.linkedin.com/in/henrik-simonsen-knutsen-ab52541a1"
 
 footer:
